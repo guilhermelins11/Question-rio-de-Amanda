@@ -3,7 +3,7 @@ gabarito = ['A', 'B', 'C', 'D', 'E', 'E', 'D', 'C', 'B', 'A']
 notas = []  # Lista para armazenar as notas dos alunos
 quantidade_total_alunos = 0  # Contador de alunos
 
-# Loop para coletar respostas dos alunos
+# iteração = sequencia para coletar respostas dos alunos
 while True:
     acertos = 0  # Contador de acertos do aluno
     print("\nResponda as perguntas (A, B, C, D, E):")
